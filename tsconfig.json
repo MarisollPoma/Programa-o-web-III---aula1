@@ -1,4 +1,9 @@
 {
+    //compilerOptions cria uma pasta//
+    "compilerOptions": {
+        "outDir": "dist",
+        "noEmitOnError": false
+    }
 
     
 }
