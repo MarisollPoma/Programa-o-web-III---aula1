@@ -2,7 +2,7 @@
     //compilerOptions cria uma pasta//
     "compilerOptions": {
         "outDir": "dist",
-        "noEmitOnError": false
+        "noEmitOnError": true // ele evita os erros na hora digitar as variavéis//
     }
 
     
